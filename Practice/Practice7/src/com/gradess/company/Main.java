@@ -15,7 +15,10 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        System.out.print("Карты первого игрока: ");
         fillQueue(firstPlayer, scanner);
+
+        System.out.print("Карты второго игрока: ");
         fillQueue(secondPlayer, scanner);
 
         scanner.close();
@@ -32,25 +35,41 @@ public class Main {
 
     private static void play() {
         int counter = 0;
-        while (!firstPlayer.isEmpty() && !secondPlayer.isEmpty() && counter < 106) {
+        while (canContinueGame(counter)) {
 
             Integer firstElem = firstPlayer.pollFirst();
             Integer secondElem = secondPlayer.pollFirst();
 
-            if ((firstElem > secondElem || (firstElem == 0 && secondElem == 9)) && (firstElem != 9 && secondElem != 0)) {
-                firstPlayer.addLast(firstElem);
-                firstPlayer.addLast(secondElem);
-            } else {
-                secondPlayer.addLast(secondElem);
-                secondPlayer.addLast(firstElem);
+            if (firstElem != null && secondElem != null) {
+                if (isFirstWinRound(firstElem, secondElem)) {
+                    firstPlayer.addLast(firstElem);
+                    firstPlayer.addLast(secondElem);
+                } else {
+                    secondPlayer.addLast(secondElem);
+                    secondPlayer.addLast(firstElem);
+                }
             }
 
             counter++;
         }
 
-        System.out.println((firstPlayer.isEmpty() ? "second " : "first " ) + counter);
+        if (counter > 106) {
+            System.out.println("botva");
+        } else {
+            System.out.println((firstPlayer.isEmpty() ? "second " : "first " ) + counter);
+        }
     }
 
+    private static boolean canContinueGame(int counter) {
+        return !firstPlayer.isEmpty() && !secondPlayer.isEmpty() && counter < 106;
+    }
+
+    private static boolean isFirstWinRound(Integer firstElem, Integer secondElem) {
+        return ((firstElem != 9 || secondElem != 0) && firstElem > secondElem) || (firstElem == 0 && secondElem == 9);
+    }
+
+    //For debugging
+    @SuppressWarnings("unused")
     private static void randomFillQueue(Deque<Integer> queue) {
         for (int i = 0; i < QUEUE_SIZE; i++) {
             int randomId = (int) (Math.random() * availableCards.size());
