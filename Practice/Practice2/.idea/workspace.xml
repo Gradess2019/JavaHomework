@@ -2,102 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0645d6d7-f25c-42b4-93e2-fea8bbe36819" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Labs/Lab3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Labs/Lab3/src/com/gradess/company/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Labs/Lab1/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/Lab1/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Labs/Lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/Lab1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise1/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise1/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise1/Practise1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise1/out/production/Practise1/com/gradess/company/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise1/out/production/Practise1/com/gradess/company/CoverType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise1/out/production/Practise1/com/gradess/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise1/src/com/gradess/company/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise1/src/com/gradess/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise2/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise2/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise2/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise2/Practise2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise2/out/production/Practise2/META-INF/Practise2.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise2/out/production/Practise2/com/gradess/company/Author.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise2/out/production/Practise2/com/gradess/company/TestAuthor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise2/src/com/gradess/company/Author.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise2/src/com/gradess/company/TestAuthor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/Practise3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/out/production/Practise3/com/gradess/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/out/production/Practise3/com/gradess/company/Movable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/out/production/Practise3/com/gradess/company/MovableCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/out/production/Practise3/com/gradess/company/MovablePoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/out/production/Practise3/com/gradess/company/MovableRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/src/com/gradess/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/src/com/gradess/company/Movable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/src/com/gradess/company/MovableCircle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/src/com/gradess/company/MovablePoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise3/src/com/gradess/company/MovableRectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise4/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise4/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise4/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise4/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise4/Practise4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise4/out/production/Practise4/com/gradess/company/GUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise4/out/production/Practise4/com/gradess/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise4/src/com/gradess/company/GUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise4/src/com/gradess/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise5/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise5/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise5/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise5/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise5/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise5/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise5/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise5/Practise5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise5/out/production/Practise5/com/gradess/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise5/src/com/gradess/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise6/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise6/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise6/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise6/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise6/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise6/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise6/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise6/Practise6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise6/out/production/Practise6/com/gradess/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise6/out/production/Practise6/com/gradess/company/SortingStudentsByGPA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise6/out/production/Practise6/com/gradess/company/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise6/src/com/gradess/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise6/src/com/gradess/company/SortingStudentsByGPA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise6/src/com/gradess/company/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise7/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise7/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise7/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise7/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise7/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise7/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise7/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise7/Practise7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise7/out/production/Practise7/com/gradess/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise7/out/production/Practise7/com/gradess/company/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise7/src/com/gradess/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practise/Practise7/src/com/gradess/company/Player.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Labs/Lab6/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Labs/Lab6/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/Lab2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/Lab3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Lab5/imageExample.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/Lab5/imageExample.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Lab5/out/production/Lab5/com/gradess/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/Lab5/out/production/Lab5/com/gradess/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Lab5/src/com/gradess/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/Lab5/src/com/gradess/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reports/Labs/Лабораторная №1 Трофимов С.М. ИНБО-01-18.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reports/Practice/Практическая №1 Трофимов С.М. ИНБО-01-18.doc" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,21 +20,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/gradess/company/TestAuthor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/gradess/company/Author.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="85">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -152,7 +57,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,10 +79,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569171249624" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice3" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -227,51 +133,51 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="DB Browser" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21482602" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21785174" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="UI Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40849674" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Flutter Inspector" />
-      <window_info anchor="right" id="Flutter Outline" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Flutter Outline" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/gradess/company/TestAuthor.java">
+    <entry file="file://$PROJECT_DIR$/src/com/gradess/company/Author.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-end-line="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gradess/company/Author.java">
+    <entry file="file://$PROJECT_DIR$/src/com/gradess/company/TestAuthor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>

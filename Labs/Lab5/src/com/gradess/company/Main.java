@@ -5,6 +5,11 @@ import javax.swing.*;
 public class Main {
 
     public static void main(String[] args) {
-        SwingUtilities.invokeLater(() -> new GUI(args[0]));
+        try {
+            new GUI(args[0]);
+        } catch (Exception e) {
+            System.err.println("Путь к файлу не определён!");
+            System.exit(1);
+        }
     }
 }

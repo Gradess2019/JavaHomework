@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        final int SIZE = 30;
+        final int SIZE = 7;
         Student[] students = new Student[SIZE];
 
         for (int id = 0; id < SIZE; id++) {
